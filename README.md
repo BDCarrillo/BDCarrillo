@@ -1,5 +1,5 @@
 ## SE is Suffering Enhanced
-
+Notes on perfomance in SE: https://github.com/BDCarrillo/BDCarrillo/wiki/SE_Notes
 <!--
 **BDCarrillo/BDCarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
